@@ -68,5 +68,4 @@ Tatar and Russian.
 
 ## Research interests
 
-Computer Vision · Representation Learning · Vision Transformers ·
-Spectral Analysis · Robustness · Applied ML
+Computer Vision · Representation Learning · Applied ML
