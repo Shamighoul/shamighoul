@@ -29,7 +29,7 @@ representations of **ResNet, ViT and Swin Transformer** models.
 - controlled experiments for downsampling effects
 - reproducible experimental pipeline
 
-[View repository](/Shamighoul/spectral-analysis-cnn-transformers)
+[View repository](https://github.com/Shamighoul/spectral-analysis-cnn-transformers)
 
 ---
 
@@ -47,7 +47,7 @@ from video and serving predictions through a production-style ML service.
 - automated tests
 - monitoring and inference benchmarking
 
-[View current ML service](/Shamighoul/CV_inference_service)
+[View current ML service](https://github.com/Shamighoul/CV_inference_service)
 
 ---
 
@@ -65,7 +65,7 @@ The main research challenge is adapting historical Arabic-script OCR
 models to Tatar orthography and evaluating recognition quality
 with manually prepared ground truth.
 
-[View repository](/Shamighoul/Iske-tatar-tele-reader)
+[View repository](https://github.com/Shamighoul/Old-tatar-OCR)
 
 ---
 
