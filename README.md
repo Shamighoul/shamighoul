@@ -3,69 +3,96 @@
 ### ML / Data Science Engineer · Computer Vision
 
 MIPT MSc graduate with commercial ML experience at Avito Tech.
-I work with machine learning, computer vision, data analysis and
-experimental evaluation of deep learning models.
 
-My main interests are **Computer Vision, representation learning,
-spectral analysis of neural networks and production ML systems**.
+I focus on **Computer Vision, deep learning, data analysis and experimental
+evaluation of machine learning systems**.
+
+My current interests include **representation learning,
+spectral analysis of neural networks and production ML**.
 
 ---
 
-## Selected work
+## Selected Projects
 
 ### 🔬 Spectral Analysis of CNNs and Vision Transformers
+
 Research project based on my MSc thesis at MIPT.
 
-Studied how spatial-frequency information evolves through
-ResNet, ViT and Swin representations.
+I studied how spatial-frequency information evolves through intermediate
+representations of **ResNet, ViT and Swin Transformer** models.
 
+**Highlights**
+- ImageNet experiments
 - ResNet / ViT / Swin
-- ImageNet
-- Fourier & radial power spectrum analysis
-- Representation analysis
-- Reproducible experiments
+- Fourier and radial power spectrum analysis
+- representation analysis
+- controlled experiments for downsampling effects
+- reproducible experimental pipeline
 
-→ [Repository](...)
-
-### 👁 Production-ready Computer Vision Service
-
-Image classification service with a separated ML and API layer.
-
-- FastAPI
-- Docker / Docker Compose
-- Tests
-- Prometheus
-- ML inference pipeline
-
-→ [Repository](...)
-
-### 📜 Historical Tatar OCR
-Computer Vision / OCR pipeline for extracting historical Tatar
-text from scanned documents and translating it into modern
-Tatar and Russian.
-
-→ [Repository](...)
+[View repository](/Shamighoul/spectral-analysis-cnn-transformers)
 
 ---
 
-## Core stack
+### 🤟 Sign Language Understanding
 
-**ML / CV:** Python · PyTorch · OpenCV · scikit-learn · CatBoost  
-**Data:** NumPy · pandas · SciPy · SQL · PySpark  
-**Engineering:** Git · Linux · Docker · FastAPI · MLflow
+Computer Vision / ML engineering project for recognizing sign language
+from video and serving predictions through a production-style ML service.
+
+**Planned / implemented stack**
+- PyTorch
+- video understanding
+- temporal modeling
+- FastAPI
+- Docker
+- automated tests
+- monitoring and inference benchmarking
+
+[View current ML service](/Shamighoul/CV_inference_service)
+
+---
+
+### 📜 Historical Tatar OCR — In Progress
+
+Research-oriented OCR system for historical Tatar documents written
+in Arabic script.
+
+The project is intended to cover:
+
+**scanned document → layout analysis → OCR → text normalization →
+modern Tatar → Russian translation**
+
+The main research challenge is adapting historical Arabic-script OCR
+models to Tatar orthography and evaluating recognition quality
+with manually prepared ground truth.
+
+[View repository](/Shamighoul/Iske-tatar-tele-reader)
+
+---
+
+## Core Stack
+
+**ML / Computer Vision**  
+Python · PyTorch · OpenCV · scikit-learn · CatBoost · Optuna
+
+**Data & experimentation**  
+NumPy · pandas · SciPy · SQL · PySpark · A/B testing
+
+**ML Engineering**  
+Git · Linux · Docker · FastAPI · MLflow
 
 ---
 
 ## Background
 
-- MSc, Computer Science — MIPT
-- BSc, Biotechnology — MIPT
-- ML / Data Science experience at Avito Tech
-- Research experience in medical ML and representation analysis
+- MSc in Computer Science — MIPT
+- BSc in Biotechnology — MIPT
+- ML / Data Science experience — Avito Tech
+- Research experience in medical ML and neural representation analysis
 - 3rd place — HSE DS Hack 2023
 
 ---
 
-## Research interests
+## Research Interests
 
-Computer Vision · Representation Learning · Applied ML
+Computer Vision · Video Understanding · Representation Learning ·
+Vision Transformers · Spectral Analysis · Applied ML
